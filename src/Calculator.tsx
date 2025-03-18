@@ -8,7 +8,7 @@ const StyledButton = styled.button`
 `;
 
 const StyledContainer = styled.div`
-    height: 50%;
+    
     background-size: cover;
     background-image: url(${calImage});
 `
